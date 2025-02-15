@@ -1,6 +1,0 @@
-@selecao_lapes_2024_HostAddress = http://localhost:5081
-
-GET {{selecao_lapes_2024_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
